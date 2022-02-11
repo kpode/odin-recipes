@@ -1,1 +1,1 @@
-# odin-recipes
+# This is project recipe. The goal of this project is to demostrate my HTML skill. 
