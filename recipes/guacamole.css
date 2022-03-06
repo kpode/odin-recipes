@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(224, 224, 243);
+    font-family:'Times New Roman', sans-serif, Verdana, Tahoma;
+}
+
+h1, .gua {
+    text-align: center;
+    font-size: 30px;
+}
+
+h1 {
+    color: rgb(92, 92, 241);
+    font-weight: bold;
+    font-size: 50px;
+}
+
+
+img{
+    height: auto;
+    width: 100%;
+}
